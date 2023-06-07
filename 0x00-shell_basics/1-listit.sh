@@ -1,2 +1,2 @@
-#!bin/bash
-echo "your files: "
+#!/bin/bash
+$ls
