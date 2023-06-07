@@ -1,5 +1,5 @@
 # Description of scripts
-* 0-current_working_directory - 0-current_working_directory - prints the current working directory
+* 0-current_working_directory - prints the current working directory
 * 1-listit - lists files in currend directory
 * 2-bring_me_home - back to home directory
 * 3-listfiles - Long format files
