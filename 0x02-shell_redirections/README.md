@@ -1,2 +1,5 @@
 # I/O REDIRECTIONS
-* ii's getting tough
+* it's getting tough
+* h
+* hu
+
